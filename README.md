@@ -13,6 +13,7 @@ This program is developed by [@藤藤树叶](http://weibo.com/u/2612112883), myx
 
 ![img](https://github.com/biaobiaoqi/kongfusnake/blob/master/KongfuSnake.png?raw=true)
 
+You can also find this program [here](http://www.google.cn/university/androidchallenge/2011/gallery.html#tab=d1-13)
 
 #Development Environment
 
