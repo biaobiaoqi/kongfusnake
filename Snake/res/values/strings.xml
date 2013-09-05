@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SnakeActivity!</string>
+    <string name="app_name">KongfuSnake</string>
+    <string name="label_result">Game Result</string>
+    <string name="exit">Sure to leave?</string>
+    <string name="infor_1">Developers: Ye Zhiqiang, Shen Yapeng</string>
+    <string name="infor_2">UI Designer: Mao Yuxi</string>
+    <string name="infor_3">Contact: KongfuSnake.zju@gmail.com</string>
+    <string name="infor_4">Acknowledgement: Google Inc. and all of the people who support us</string>
+    <string name="label_instr">Instruction</string>
+    <string name="score_show_in_game">SCORE: </string>
+    <string name="time_show_in_game">TIME: </string>
+    <string name="highest_score_show_in_game">Highest score : </string>
+</resources>
