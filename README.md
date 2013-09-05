@@ -9,9 +9,9 @@ This is an exciting version of the well-known game "Snakes". The movement of sna
 
 This program is developed by [@藤藤树叶](http://weibo.com/u/2612112883), myx and [biaobiaoqi](http://github.com/biaobiaoqi).
 
-![]()
+![img](https://github.com/biaobiaoqi/kongfusnake/blob/master/KongfuSnake_Guide.png)
 
-![]()
+![img](https://github.com/biaobiaoqi/kongfusnake/blob/master/KongfuSnake.png)
 
 
 #Development Environment
